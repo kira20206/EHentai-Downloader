@@ -21,7 +21,7 @@ namespace Ehantai_Downloader
         delegate void updateUrl(string str);
         delegate void changeBool(bool bl);
 
-        //執行續
+        //執行續123456789
         Thread download_thread;
         Thread img_thread;
 
