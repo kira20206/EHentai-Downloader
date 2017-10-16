@@ -246,7 +246,7 @@ namespace Ehantai_Downloader
             }
             else
             {
-                this.pictureBox1.ImageLocation = url;
+                this.pictureBox1.LoadAsync(url);
             }
         }
         private void btnFuc(bool bl)
