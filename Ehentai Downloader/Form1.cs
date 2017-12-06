@@ -31,7 +31,7 @@ namespace Ehantai_Downloader
         //變數
         string program_dic;     //程式路徑
         string download_dic;    //下載資料夾路徑
-        string bookname;        //書名
+        string bookname;        //書名(日文)
         int TotalImagePages;     //本本總頁數
         int webPagingNo;            //下一頁的分頁網址數量
         int downloaded_image = 0;   //已下載的圖片數量
